@@ -5,9 +5,9 @@ _Nom du guide original : [A guide on improving your gameplay](http://www.playdot
 
 _Tradution française : [ChickenSkill](http://twitter.com/ChikenSkill)_
 
-_Github repo :_
+_Github repo : [tradImpGPguide](https://github.com/tradImpGPguide)_
 
-_License:_
+_License: opyright [playdota.com](http://www.playdota.com), All rights reserved_
 
 
 ## Table des matières ##

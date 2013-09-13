@@ -95,7 +95,7 @@ _Mention spéciale : MoM sur Lifestealer est très puissant. Quand vous activez 
 attack speed, vitesse d'attaque augmentée) de 1810 pour 4.75 secondes et vous êtes immunisés à la magie durant
 cette période. mais gardez toujours en tête que vous n'êtes pas immunisé aux dégâts physique._
 
-### poor man's shield contre wraith band ###
+### Poor Man's Shield contre Wraith Band ###
 
 <div class="table-reponsive">
   <table class="table">
