@@ -1,36 +1,36 @@
 
 <div id="c1"></div>
 
-## Chapitre 1. Utiliser les mécanismes DotA ##
+## Chapitre 1. Utiliser les mécanismes de DotA ##
 
 ### La résistance magique des héros ###
 
-La majorité des joueurs intermédiaires devraient savoir que chacun des héros DotA possède une 
+La majorité des joueurs moyens devraient savoir que chaque héro DotA possède une 
 résistance magique de base de 25%.
 
 #### Utilisation de la résistance magique des héros pour améliorer votre gameplay ####
 
-  1. Si vous jouez un héro possédant beaucoup de dégâts de nuke. Vous pouvez calculer à la main 
+  1. Si vous jouez un héro possédant beaucoup de dégâts de nuke. Vous pouvez calculer de tête 
   les dégats reçus par le héro avec la résitance magique de 25%.
 
-  2. La raison derrière cela est que si l'ennemi n'a plus beaucoup de points de vie, vous pourrez
-  connaître le bon moment pour lancer votre coup final.
+  2. La raison derrière cela est que si l'adversaire n'a plus beaucoup de points de vie, vous pourrez
+  savoir si votre coup final sera assez puissant pour tuer celui-ci.
 
-  3. C'est une chose à prendre en compte si le héro adverse prend la fuite et que vous avez une 
+  3. C'est une chose à prendre en compte dans le cas où le héro adverse prend la fuite et que vous avez une 
   grosse distance sur votre nuke à beaucoup de dégâts.
 
 _Mention spéciale : Thundergod's Wrath et Assassinate retirent le plus de bénefice de cette 
 technique car ils ont un très grande distance de canalisation. Vous ne voulez pas gaspiller ces
 2 sorts sur un adversaire évadé dont vous ne pourrez pas tuer._
 
-Des exemples de nukes forts sont Thundergod Wraith, Assassinate, Finger of Death, Laguna Blade,
+Des exemples de nukes puissants sont Thundergod Wraith, Assassinate, Finger of Death, Laguna Blade,
 etc.
 En fait, ceci peut être utile pour n'importe quel autre sort à peu de dégâts si vous voulez les
 calculer.
 
 ### Spawns et temps ###
 
-La majorité des joueurs intermédiaires devraient savoir qu'une vague de creeps apparaît toutes les
+La majorité des joueurs moyen devraient savoir qu'une vague de creeps apparaît toutes les
 30 secondes, les creeps neutraux chaque minute, les arbres toutes les 5 minutes, etc...
 
 #### Utilisation des temps d'apparition pour améliorer votre gameplay ####
@@ -53,8 +53,8 @@ améliore la capacité de farm_
 
 ### L'or ###
 
-Presque tout le monde sait ce que fait et comment avoir de l'or. Mais peu de joueurs connaissent l'importance de la vérification de son or.
-La plupart des joueurs intermédiaires devraient savoir que l'or perdu lors d'une mort est ``30 x niveau du héro``.
+Presque tout le monde sait ce que fait l'or et comment en avoir. Mais peu de joueurs connaissent l'importance de la vérification de son or.
+La plupart des joueurs moyens devraient savoir que l'or perdu lors d'une mort est égale à ``30 x niveau du héro``.
 Ce qui veut dire qu'au niveau 25, vous perdez 750 d'or par mort.
 
 _Soyez attentif au concept d' "Or Reliable" dans DotA. Vous devriez savoir ce que c'est. 
@@ -64,7 +64,7 @@ Si non, veuillez consulter ce [tutoriel de mécanisme d'or](http://www.playdota.
 
   1. Stacker vos Ancients est important
 
-  2. S'il vous arrive de mourrir tôt, spécialement dans le early-game, dépenser rapidement votre or en consommable serait génial
+  2. S'il vous arrive de mourrir tôt, spécialement dans le early-game, dépenser rapidement votre or en consommable serait une bonne chose 
 
   3. Les supports retireront beaucoup de bénéfice de cette technique car ils achètent souvent des Observer Wards, Sentry Wards et Smoke of Deceit.
   Le TP est un objet que tout héro utilise.
@@ -72,10 +72,10 @@ Si non, veuillez consulter ce [tutoriel de mécanisme d'or](http://www.playdota.
   4. Mourrir avec aussi peu d'or que possible (avant de mourrir) est toujours ce que vous voulez. Mais si vous avez beaucoup d'or reliable sur vous, 
   vous devriez les garder. __Faîtes ceci seulement quand nécessaire__.
 
-### Régénérations ###
+### Régénération ###
 
 Je parle de régénération en terme de points de vie et de mana, pas de rune. 
-Souvent, lorsque vous utiliser des objets activables ou sorts pour vous régénérer, vous pouvez en abuser pour vous régénérer "plus" de points de vie 
+Souvent, lorsque vous utilisez des objets activables ou sorts pour vous régénérer, vous pouvez abuser de ceux-ci pour vous régénérer "plus" de points de vie 
 et de mana.
 
 #### Utilisation de votre régénération pour améliorer votre jeu ####
@@ -93,15 +93,7 @@ vous perdrez seulement 150 mana de votre nouvelle réserve de mana après la fin
 _Astuce bonus : La fontaine est supposée régénérer votre mana rapidement mais elle ne régénère en réalité que  : ``4% de votre mana maximun + 14``.
 Par contre, si vous utilisez cette technique, cela accélèrera le processus. C'est extrêmement utile is votre réserve de mana est grande._
 
-_Une autre astuce : En cas d'urgence, comme être chassé et mourrir avec Power Tread et la capacité de se régénérer. Toujours changer sur INT( ou AGI si vous voulez vous régénérer de la mana aussi) 
+_Une autre astuce : En cas d'urgence, comme être chassé jusqu'à la mort avec Power Tread et la capacité de se régénérer. Toujours changer sur INT (ou AGI si vous voulez vous régénérer de la mana aussi) 
 avant la régénération puis changez rapidement sur STR vous aidera définitivement._
-
-
-
-
-
-
-
-
 
 

@@ -20,7 +20,7 @@ _License: opyright [playdota.com](http://www.playdota.com), All rights reserved_
 
 <div class="warning text-warning">
     Ce guide se focalise sur les joueurs de niveau intermédiaire. 
-    Un joueur intermédiaire connait la majorité des mécanismes DotA facilement mémorisable ainsi que la compréhension du bénéfisme et désavantage des objets et héros.
+    Un joueur moyen connait la majorité des mécanismes DotA mémorisables ainsi que la compréhension du bénéfisme et désavantage des objets et héros.
 </div>
 
 

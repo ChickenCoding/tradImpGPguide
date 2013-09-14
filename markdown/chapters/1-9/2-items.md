@@ -3,13 +3,13 @@
 
 ## Chapitre 2. Comparaisons d'objets ##
 
-Cette section a quelques théories mathématiques (peu importe comment vous appellez ça). 
-Ce n'est qu'une comparaison d'objets facile à comprendre.
+Cette section comporte quelques théories mathématiques (peu importe comment vous appellez ça). 
+Ce n'est en fait qu'une comparaison d'objets facile à comprendre.
 
-Je ne vous conseillerais de dépenser tout vos slots d'inventaire avec les 603 d'or de début de
-partie. En tant que joueur intermédiaire, vous devriez savoir pourquoi.
+Je vous déconseille de dépenser tout vos slots d'inventaire avec les 603 d'or de début de
+partie. En tant que joueur de niveau intermédiaire, vous devriez savoir pourquoi.
 
-Les objets que je compare sont les objets qui devraient être achété selon différentes situations.
+Les objets que je compare sont les objets qui devraient être achétés selon différentes situations.
 
 <div class="warning text-warning">
   _Une règle à suivre avant de lire la deuxième section de ce guide :_
@@ -20,8 +20,8 @@ Les objets que je compare sont les objets qui devraient être achété selon dif
   C'est la clé pour jouer à DotA.
 </div>
 
-
 ### Helm of Dominator contre Mask of Madness ###
+
 <div class="table-reponsive">
   <table class="table">
     <thead>
@@ -60,7 +60,7 @@ __Berserk__
 
 Dure 12 secondes, coûte 25 de mana, et possède un temps de rechargement de 25 secondes.
 
-Dans DotA1, 1 d'armure équivaut à un EHP(Effective HitPoints, HitPoints d'Efficacité) physique de 6%.
+Dans DotA1, 1 d'armure équivaut à un EHP (Effective HitPoints, Hit Point Efficaces) physique de 6%.
 Sans aptitude active, Helm of Dominator est plus puissant. Mais les joueurs achètent MoM pour son
 aptitude active. 
 
@@ -69,7 +69,7 @@ aptitude active.
   + __Mom__ 
 
     Si vous activez MoM, et recevez des dégâts magiques; vous recevrez ``100 x (1-0.25) x (1+0.3) = 97.5`` 
-    après réduction. De plus, vous recevrez également des dégats physiques et purs __amplifié__.
+    après réduction. De plus, vous recevrez également des dégâts physiques et purs __amplifiés__.
     Le bon côté est que vous aurez votre vitesse de déplacement et votre vitesse d'attaque augmentée.
 
   + __Helm of Dominator__ 
@@ -89,11 +89,11 @@ dégâts.
 
 Prenez Helm of Dominator si vous serez disable et voulez beaucoup de vol de vie. Les 5 d'armure sont significatif
 contre les héros à dégâts physique. Je vous encourage fortement à maîtriser une creep si vous possédez Helm of Dominator.
-Par ailleurs, c'est une autre version de Vladimir's Offering. Pour un disable reliable, Troll Warlord est bon.
+Autrement, c'est juste une autre version de Vladimir's Offering. Pour un disable reliable, Dark Troll Warlord est une bonne creep neutre.
 
 _Mention spéciale : MoM sur Lifestealer est très puissant. Quand vous activez Rage et MoM, vous avez un IAS (Increased 
-attack speed, vitesse d'attaque augmentée) de 1810 pour 4.75 secondes et vous êtes immunisés à la magie durant
-cette période. mais gardez toujours en tête que vous n'êtes pas immunisé aux dégâts physique._
+attack speed, Vitesse d'Attaque Augmentée) de 1810 pour 4.75 secondes et vous êtes immunisé à la magie durant
+cette période. Mais gardez toujours en tête que vous n'êtes pas immunisé aux dégâts physique._
 
 ### Poor Man's Shield contre Wraith Band ###
 
@@ -133,9 +133,9 @@ J'encourage fortement à ne pas acheter Poor Man's Shield (PMS) sur les héros �
 
   + __Poor Man's Shield__ 
     
-  3 STR est aussi 57 points de vie. Ce qui veut dire qu'être attaqué 3 fois avec PMS (60 dégâts
-  bloqués) est à peu près ce que Wraith Band seul peut vous apporter. 
-  PMS vous permet presque toujours de mieux tanker les dégâts physique en late-game.
+    3 STR est aussi 57 points de vie. Ce qui veut dire qu'être attaqué 3 fois avec PMS (60 dégâts
+    bloqués) est à peu près ce que Wraith Band seul peut vous apporter. 
+    PMS vous permet presque toujours de mieux tanker les dégâts physique en late-game.
 
   + __Wraith Band__
 
@@ -209,7 +209,7 @@ toutes les situations_), à part du MS quu n'est pas nécessaire pour Anti-Mage.
 
 Acquérissez Power Tread si le surplus de MS n'est pas nécessaire et que vous êtes un carry à dégâts physique. 
 Utilisez la formule de DPS seulement pour les dégâts et l'IAS, ``(1+IAS/100) /1.7 dégâts``, les carries
-AGI vont presque toujours bénéficier de plus de DPS par Power Tread sur leur premier attraibut que 
+AGI vont presque toujours bénéficier de plus de DPS par Power Tread sur leur premier attribut que 
 Phase Boots.
 Prenez Phase Boots si vous êtes un carry à peu de MS de base. Sniper est un bon exemple de carry à peu de MS. 
 Cependant, cela ne veut pas dire que vous devez acheter systématiquement Phase Boots pour Sniper. 
@@ -223,6 +223,6 @@ Rappelez-vous d'avoir un gameplay polyvalent_
 ##### Derniers mots pour cette section #####
 
 Vous n'avez pas à être d'accord avec tout ce que j'ai dit dans cette section. Mais elles sont justes dans presque toutes les
-situations. Vous devriez vraiment vous adapter selon le situation comme je l'ai dit précédement. Acheter un mauvais objet 
+situations. Vous devriez vraiment vous adapter selon la situation comme je l'ai dit précédement. Acheter un mauvais objet 
 peut causer beaucoup de problèmes même si vous ne vous en êtes pas aperçu, spécialement dans le jeu compétitif.
 
