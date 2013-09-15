@@ -7,7 +7,7 @@ _Tradution française : [ChickenSkill](http://twitter.com/ChikenSkill)_
 
 _Github repo : [tradImpGPguide](https://github.com/tradImpGPguide)_
 
-_License: opyright [playdota.com](http://www.playdota.com), All rights reserved_
+_License: Copyright [playdota.com](http://www.playdota.com), All rights reserved_
 
 
 ## Table des matières ##
@@ -66,15 +66,15 @@ La majorité des joueurs moyen devraient savoir qu'une vague de creeps apparaît
   _Cependant_, la majorité des camps peuvent être pull _un peu après_ pour le stack se fasse quand même.
 
   <div class="warning text-warning">
-    Détail spécial pour [le camp numéro 9](http://www.playdota.com/mechanics/neutralcreeps#9). Ce camp n'aura pas de stack si vous pullez 
+    Détail spécial pour [le camp numéro 9](./img/camp9.png). Ce camp n'aura pas de stack si vous pullez 
     les creeps __vers le bas à 00:52__. 
     Si c'est le cas, __pullez vers la gauche__.
   </div>
 
   + Prendre note du temps de la prochaine apparîtion de Roshan après sa mort aidera beaucoup .
 
-_Astuce bonus :Vous pouvez couper un arbre au dessus [du camp de pull populaire du Dire](http://www.playdota.com/mechanics/neutralcreeps#8) pour
-vous permettre d'aller depuis et jusqu'au [camp près de la rune bot](http://www.playdota.com/mechanics/neutralcreeps#7) plus facilement. Cela
+_Astuce bonus :Vous pouvez couper un arbre au dessus [du camp de pull bien connu du Dire](./img/camp8.png) pour
+vous permettre d'aller depuis et jusqu'au [camp près de la rune bot](./img/camp7.png) plus facilement. Cela
 améliore la capacité de farm_
 
 ### L'or ###
@@ -83,8 +83,18 @@ Presque tout le monde sait ce que fait l'or et comment en avoir. Mais peu de jou
 La plupart des joueurs moyens devraient savoir que l'or perdu lors d'une mort est égale à ``30 x niveau du héro``.
 Ce qui veut dire qu'au niveau 25, vous perdez 750 d'or par mort.
 
-_Soyez attentif au concept d' "Or Reliable" dans DotA. Vous devriez savoir ce que c'est. 
-Si non, veuillez consulter ce [tutoriel de mécanisme d'or](http://www.playdota.com/mechanics/Gold)(en anglais)._
+_Soyez attentif au concept d' "Or fiable" dans DotA. Vous devriez savoir ce que c'est._ 
+<blockquote>
+_Or fiable :_  
+Toute prime que vous recevrez de meurtres de héros, tours, courriers, ou Roshan sera ajouté à votre réserve d'or fiable. Additionnellement, Track
+de Bounty Hunter et Transmute d'Hand of Midas vous donnent de l'or fiable.
+
+![détails du mécanisme d'or](./img/orfiable.png)  
+
+<small> [playdota.com - gold mechanics](http://www.playdota.com/mechanics/Gold)
+</blockquote>
+
+
 
 #### Utilisation de l'or pour améliorer votre gameplay ####
 
@@ -95,7 +105,7 @@ Si non, veuillez consulter ce [tutoriel de mécanisme d'or](http://www.playdota.
   3. Les supports retireront beaucoup de bénéfice de cette technique car ils achètent souvent des Observer Wards, Sentry Wards et Smoke of Deceit.
   Le TP est un objet que tout héro utilise.
 
-  4. Mourrir avec aussi peu d'or que possible (avant de mourrir) est toujours ce que vous voulez. Mais si vous avez beaucoup d'or reliable sur vous, 
+  4. Mourrir avec aussi peu d'or que possible (avant de mourrir) est toujours ce que vous voulez. Mais si vous avez beaucoup d'or fiable sur vous, 
   vous devriez les garder. __Faîtes ceci seulement quand nécessaire__.
 
 ### Régénération ###
